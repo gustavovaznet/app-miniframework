@@ -1,2 +1,2 @@
-# app-miniframework
-PHP Miniframework
+# Miniframework
+This is a miniframework developed in PHP.
