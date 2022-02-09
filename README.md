@@ -1,2 +1,2 @@
 # Miniframework
-This is a miniframework developed in PHP.
+This is a simple miniframework developed in PHP.
